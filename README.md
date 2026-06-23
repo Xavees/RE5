@@ -46,7 +46,7 @@ Os arquivos da tradução são muito grandes para serem hospedados diretamente n
 
 ### Download dos arquivos
 
-🔗 https://www.mediafire.com/folder/jz8jshgflq1e1/RE5
+🔗 https://drive.google.com/drive/folders/1_HQHgsQOPipovJHOLINPcKCNWK50OD95?usp=sharing
 
 ---
 
