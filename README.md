@@ -1,57 +1,98 @@
-# Resident Evil 5 Gold Edition - Tradução PT-BR (Central de Tradução)
+# Resident Evil 5 Gold Edition - Tradução PT-BR
 
-## Sobre
+<p align="center">
+  <img src="imgs/re5.jpg" width="600">
+</p>
+
+<p align="center">
+  Tradução em Português Brasileiro para <b>Resident Evil 5 Gold Edition</b>
+</p>
+
+---
+
+## ⚠️ Compatibilidade
+
+Esta tradução foi desenvolvida para a versão:
+
+✅ **Resident Evil 5 Gold Edition**
+
+O funcionamento em outras versões do jogo não é garantido e pode causar incompatibilidades.
+
+---
+
+## 📖 Sobre
 
 Este repositório reúne os arquivos da tradução em português brasileiro de **Resident Evil 5 Gold Edition**, desenvolvida originalmente pela **Central de Tradução**.
 
-⚠️ **IMPORTANTE:** Esta tradução foi desenvolvida para a versão **Resident Evil 5 Gold Edition**. O funcionamento em outras versões do jogo não é garantido.
+Todo o crédito pelo trabalho de tradução pertence à equipe da Central de Tradução. Este repositório tem apenas o objetivo de facilitar o acesso e a organização dos arquivos para a comunidade.
 
-Todo o crédito pelo trabalho de tradução, adaptação e distribuição pertence à equipe da Central de Tradução. Este repositório existe apenas para facilitar o acesso e a organização dos arquivos.
+---
 
-## Créditos
+## 👏 Créditos
 
-* Tradução: Central de Tradução
-* Jogo: Capcom
+### Tradução
+- Central de Tradução
 
-Agradecimentos à equipe da Central de Tradução pelo excelente trabalho realizado para a comunidade brasileira.
+### Jogo
+- Capcom
 
-## Download
+Agradecimentos especiais à equipe da Central de Tradução pelo excelente trabalho realizado para a comunidade brasileira.
 
-Os arquivos são muito grandes para serem hospedados diretamente no GitHub. Por isso, o download está disponível através do MediaFire:
+---
 
-📥 **Download:** https://www.mediafire.com/folder/jz8jshgflq1e1/RE5
+## 📥 Download
 
-## Compatibilidade
+Os arquivos da tradução são muito grandes para serem hospedados diretamente no GitHub.
 
-✅ **Versão suportada:** Resident Evil 5 Gold Edition (Steam)
+### Download dos arquivos
 
-⚠️ O uso em versões diferentes da Gold Edition pode causar incompatibilidades, arquivos ausentes ou falhas na instalação.
+🔗 https://www.mediafire.com/folder/jz8jshgflq1e1/RE5
 
-## Recomendação
+---
 
-### Legendas (Recomendado)
+## 🎮 Recomendações
 
-A versão com legendas é a mais recomendada, pois preserva o áudio original do jogo e oferece a melhor experiência geral.
+### ✅ Versão Legendada (Recomendada)
 
-### Dublagem por IA
+A versão com legendas é a opção mais recomendada, pois mantém o áudio original do jogo e proporciona a melhor experiência geral.
 
-A versão dublada utiliza vozes geradas por Inteligência Artificial e deve ser considerada experimental.
+### 🤖 Versão Dublada por IA
+
+A versão dublada utiliza vozes geradas por Inteligência Artificial e possui caráter experimental.
 
 Ela pode apresentar:
 
-* Entonação artificial em alguns diálogos;
-* Pronúncias incorretas;
-* Falhas de sincronização;
-* Qualidade variável entre personagens e cenas.
+- Entonações artificiais;
+- Pronúncias inconsistentes;
+- Sincronização imperfeita;
+- Qualidade variável entre personagens e cenas.
 
-Caso esteja buscando a melhor experiência possível, recomenda-se utilizar a versão com legendas.
+Caso esteja procurando a melhor experiência possível, recomenda-se utilizar a versão com legendas.
 
-## Aviso
+---
 
-Este repositório não reivindica autoria sobre a tradução. Todos os créditos pertencem à Central de Tradução.
+## ⚖️ Aviso
 
-Se você gostar do trabalho, considere visitar e apoiar os responsáveis pelo projeto original.
+Este repositório não reivindica autoria sobre a tradução.
 
-## Direitos Autorais
+Todos os créditos da tradução pertencem à Central de Tradução.
 
-Resident Evil 5 Gold Edition é uma propriedade da Capcom. Todos os direitos relacionados ao jogo, personagens, marcas registradas e conteúdos pertencem aos seus respectivos proprietários.
+Caso os responsáveis pelo projeto original solicitem a remoção dos arquivos, este repositório será atualizado conforme necessário.
+
+---
+
+## 📝 Direitos Autorais
+
+Resident Evil 5 Gold Edition é propriedade da Capcom.
+
+Todos os direitos relacionados ao jogo, personagens, marcas registradas e demais conteúdos pertencem aos seus respectivos proprietários.
+
+---
+
+<p align="center">
+  <img src="imgs/eusabo.jpg" width="250">
+</p>
+
+<p align="center">
+  <i>Você instalou a tradução com sucesso.</i>
+</p>
